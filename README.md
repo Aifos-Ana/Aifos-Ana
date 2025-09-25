@@ -4,7 +4,7 @@
 - 🎓 Have a bachelor’s in **Informatics and Computing Engineering** @ [FEUP](https://sigarra.up.pt/feup/en/web_page.inicial) (2021–2025)  
 - 📚 Currently doing my master’s in **Network and Information Systems Engineering** @ [FCUP](https://sigarra.up.pt/fcup/en/web_page.inicial) (2024–2027, expected)  
 - 💼 Former **Software Development Intern** @ Visma Tech Portugal  
-- 🌱 Currently exploring **backend engineering, distributed systems & cybersecurity**  
+- 🌱 Currently exploring **backend & frontend engineering, distributed systems & cybersecurity**  
 - 🛠️ Passionate about building scalable software and experimenting with **AI + systems**  
 - ⚡ Fun fact: I love mixing tech, music, and pop culture.  
 
